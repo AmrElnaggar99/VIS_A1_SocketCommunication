@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/FH/disc/task1client2/TCP_Client.h
+
+/cygdrive/d/FH/disc/task1client2/UDP_Client.cpp
+stdio.h
+-
+iostream
+-
+sys/socket.h
+-
+netinet/in.h
+-
+string.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+limits
+-
+UDP_Client.h
+/cygdrive/d/FH/disc/task1client2/UDP_Client.h
+
+/cygdrive/d/FH/disc/task1client2/UDP_Client.h
+
+/cygdrive/d/FH/disc/task1client2/main.cpp
+stdio.h
+-
+iostream
+-
+UDP_Client.h
+/cygdrive/d/FH/disc/task1client2/UDP_Client.h
+TCP_Client.h
+/cygdrive/d/FH/disc/task1client2/TCP_Client.h
+

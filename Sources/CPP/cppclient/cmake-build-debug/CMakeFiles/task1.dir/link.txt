@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/task1.dir/main.cpp.o CMakeFiles/task1.dir/UDP_Client.cpp.o CMakeFiles/task1.dir/TCP_Client.cpp.o  -o task1.exe -Wl,--out-implib,libtask1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
