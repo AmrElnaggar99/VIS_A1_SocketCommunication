@@ -6,6 +6,7 @@ This Server/Client System mimics IOT sensors reading. <br>
 The Client sends the Server requests asking for the sensor vlaues.
 <br><br>
 The Server application can start TCP IPv4 and TCP IPv6 and UDP Servers. However, the UDP Server is just an echo server.
+<br>
 ![Server UI](https://i.imgur.com/PDwbMPB.png)
 
 #### Queries
